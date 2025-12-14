@@ -24,9 +24,17 @@ reset="\e[0m"
 # Public IP
 MYIP=$(curl -s ipv4.icanhazip.com || curl -s ipinfo.io/ip || curl -s ifconfig.me)
 domain=$(cat /usr/local/etc/xray/domain)
+REPO="https://raw.githubusercontent.com/NevermoreSSH/SkyNode/main/updates/"
 
 # install missing packages for debian 13+
 apt update -y && apt install -y net-tools htop wget iftop
+
+# install any menu
+cd /usr/local/bin/
+wget -O check-xray "${REPO}check-xray.sh"
+
+# execute any more
+chmod +x check-xray
 
 # end scripts
 echo ""
