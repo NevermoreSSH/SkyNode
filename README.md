@@ -20,7 +20,7 @@ MNVR7X-M1M3AF-WWV7DT-RJKFQ7-R5V7XE-JWYPO7
 ───────────────────────────────  
 
 ### SSH & WEBSOCKET
-- OpenSSH                        : 22  
+- OpenSSH                        : 22, 2222  
 - Dropbear                       : 143, 109  
 - Stunnel4   : 222, 777  
 - Websocket HTTP   : 80, 8880  
@@ -52,6 +52,7 @@ MNVR7X-M1M3AF-WWV7DT-RJKFQ7-R5V7XE-JWYPO7
 - Full Orders Support   : Yes  
 
 ───────────────────────────────  
+
 
 
 
