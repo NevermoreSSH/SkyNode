@@ -1,3 +1,10 @@
+```
+Version 26.2.2 (stable)
+- 2026 feb, second updated
+- addons openssh websocket with port 8880, now u can using both 80/8880 port for ssh websocket
+- optimize addssh, proxywarp, fix ipv6 disable, fix changer dropbear
+```
+
 ♦️Autoscript SSH XRAYS Websocket Multiport By NevermoreSSH♦️
 
 ⚠️ System Requirements ⚠️
@@ -52,6 +59,7 @@ MNVR7X-M1M3AF-WWV7DT-RJKFQ7-R5V7XE-JWYPO7
 - Full Orders Support   : Yes  
 
 ───────────────────────────────  
+
 
 
 
