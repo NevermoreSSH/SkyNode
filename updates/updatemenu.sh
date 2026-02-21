@@ -32,9 +32,11 @@ apt update -y && apt install -y net-tools htop wget iftop
 # install any menu
 cd /usr/local/bin/
 wget -O check-xray "${REPO}check-xray.sh"
+wget -O trafficxray "${REPO}trafficxray.sh"
 
 # execute any more
 chmod +x check-xray
+chmod +x trafficxray
 
 # end scripts
 echo ""
