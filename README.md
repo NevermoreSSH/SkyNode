@@ -4,6 +4,8 @@ Version 26.2.2 (stable)
 - optimize addssh & mainmenu, customdns proxywarp, fix ipv6 disable, fix changer dropbear
 Version 26.3.1 (stable)
 - tweak TCP for better respone
+Version 26.5.1 (stable)
+- adjustment sc (optional)
 ```
 
 ♦️Autoscript SSH XRAYS Websocket Multiport By NevermoreSSH♦️
