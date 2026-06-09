@@ -6,6 +6,8 @@ Version 26.3.1 (stable)
 - tweak TCP for better respone
 Version 26.5.1 (stable)
 - adjustment sc (optional)
+Version 26.6.1 (beta)
+- add vless xhttp
 ```
 
 ♦️Autoscript SSH XRAYS Websocket Multiport By NevermoreSSH♦️
