@@ -25,6 +25,19 @@ license key 2025-2026:
 ```
 MNVR7X-M1M3AF-WWV7DT-RJKFQ7-R5V7XE-JWYPO7
 ```
+
+Any Fix
+1. For Ubuntu22 or above got problem : Command 'menu' is available in '/usr/local/bin/menu' The command could not be located because '/usr/local/bin' is not included in the PATH environment variable. menu: command not found
+```
+echo 'export PATH="/usr/local/bin:$PATH"' >> /root/.bashrc
+source /root/.bashrc
+```
+
+2. If the installation script gets stuck due to IPv6 connectivity, temporarily disable IPv6 and run the installation again.
+```
+sysctl -w net.ipv6.conf.all.disable_ipv6=1
+sysctl -w net.ipv6.conf.default.disable_ipv6=1
+```
 ───────────────────────────────  
 **SERVICES & PORTS**  
 ───────────────────────────────  
