@@ -8,6 +8,8 @@ Version 26.5.1 (stable)
 - adjustment sc (optional)
 Version 26.10.1
 - fixed delete and expired ssh accounts
+Version 26.10.2
+- fixed xray services error
 ```
 
 ♦️Autoscript SSH XRAYS Websocket Multiport By NevermoreSSH♦️
