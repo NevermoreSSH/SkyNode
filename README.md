@@ -1,16 +1,6 @@
-```
-Version 26.2.2
-- addons openssh websocket with port 8880, now u can using both 80/8880 port for ssh websocket
-- optimize addssh & mainmenu, customdns proxywarp, fix ipv6 disable, fix changer dropbear
-Version 26.3.1
-- tweak TCP for better respone
-Version 26.5.1 
-- adjustment sc
-Version 26.10.1
-- fixed delete and expired ssh accounts
-Version 26.10.2
-- fixed xray services error
-```
+
+**Release Notes:** [HERE](https://github.com/NevermoreSSH/SkyNode/blob/main/releasenotes.txt) (Last updated: 13/11/2026)
+
 
 ♦️Autoscript SSH XRAYS Websocket Multiport By NevermoreSSH♦️
 
