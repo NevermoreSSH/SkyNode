@@ -9,6 +9,6 @@ Version 26.10.1
 - fixed delete and expired ssh accounts
 Version 26.10.2
 - fixed xray services error
-Version 26.1.1
+Version 26.11.1
 - fixed backup config with new client id drive
 - add new bot telegram. will more options in future
