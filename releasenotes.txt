@@ -12,3 +12,7 @@ Version 26.10.2
 Version 26.11.1
 - fixed backup config with new client id drive
 - add new bot telegram. will more options in future
+Version 26.11.2
+- remove google drive
+- update backup config with onedrive
+- fixed v2 v3 sc
