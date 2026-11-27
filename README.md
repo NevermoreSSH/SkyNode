@@ -35,7 +35,7 @@ sysctl -w net.ipv6.conf.default.disable_ipv6=1
 ───────────────────────────────  
 **SERVICES & PORTS**  
 ───────────────────────────────  
-V1 - Base Scripts
+V1 - Base Version
 
 ### SSH & WEBSOCKET
 - OpenSSH                        : 22, 2222  
