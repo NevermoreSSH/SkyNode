@@ -55,12 +55,12 @@ sysctl -w net.ipv6.conf.default.disable_ipv6=1
 
 ───────────────────────────────  
 V2 - Multiport Multipath
-- SSH Websocket HTTP   : ~~80~~, 8880
+- SSH Websocket             : ~~80 , 443~~ , 8880
 - VLESS WS HTTPUPGRADE TLS  : 2053,2083,2087,2096,8443
 - VLESS WS HTTPUPGRADE NTLS : 8080,2086,2052,2082,2095
 
 V3 - Addons XHTTP
-- SSH Websocket HTTP   : ~~80~~, 8880
+- SSH Websocket                   : ~~80 , 443~~ , 8880
 - VLESS WS HTTPUPGRADE XHTTP TLS  : 2053,2083,2087,2096,8443
 - VLESS WS HTTPUPGRADE XHTTP NTLS : 8080,2086,2052,2082,2095
 
